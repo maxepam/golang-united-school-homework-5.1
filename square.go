@@ -1,7 +1,5 @@
 package square
 
-import "fmt"
-
 type Point struct {
 	x, y int
 }
